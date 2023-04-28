@@ -1,4 +1,4 @@
-# Fantara-Token
+# Project_FANTARA
 
 Written by: Aiden. Min
 Writing Date: 2023.04.28
